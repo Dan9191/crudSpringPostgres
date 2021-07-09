@@ -1,0 +1,40 @@
+[
+  {
+    "id" : 1,
+    "name": "vw golf",
+    "engine": {
+      "name" : "1.4 TSI",
+      "power" : 122
+    },
+    "gear": {
+      "name" : "шестеренка в вольво",
+      "quantity" : 100
+    },
+    "manual": {
+      "name" : "руководство по ремонту"
+    },
+    "steeringWheel": {
+      "name" : " большой руль",
+      "material" : "plastic"
+    }
+  },
+  {
+    "id" : 2,
+    "name": "Toyota Supra MK IV",
+    "engine": {
+      "name" : "2JZ-GE",
+      "power" : 200
+    },
+    "gear": {
+      "name" : "шестеренка в тайота",
+      "quantity" : 120
+    },
+    "manual": {
+      "name" : "учебник японского"
+    },
+    "steeringWheel": {
+      "name" : "спортивный руль руль",
+      "material" : "carbon"
+    }
+  }
+]
